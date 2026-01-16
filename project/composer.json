@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/orm-pack": "^2.7",
+        "symfony/mailer": "^6.4",
+        "symfony/twig-bundle": "^6.4"
+    }
+}
