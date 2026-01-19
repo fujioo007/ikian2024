@@ -1,1 +1,5 @@
 /project/my_project_64
+
+# OS
+.DS_Store
+Thumbs.db
